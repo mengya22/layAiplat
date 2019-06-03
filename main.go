@@ -1,11 +1,11 @@
 package main
 
 import (
-	"config"
+	"aiplat/config"
 	"fmt"
 	"sync/atomic"
 	"time"
-	"webser"
+	"aiplat/webser"
 )
 
 type AppConfig struct {
